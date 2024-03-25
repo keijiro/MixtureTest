@@ -59,14 +59,6 @@ MonoBehaviour:
   - rid: 7067642510870315008
   - rid: 7067642510870315009
   edges:
-  - GUID: 42be62d2-a702-4421-a83a-11fb0e84d1f6
-    owner: {fileID: 11400000}
-    inputNodeGUID: f320dfbf-08a7-4ffc-a47e-244087518517
-    outputNodeGUID: fcaaae15-2332-4785-b965-2f7099530fad
-    inputFieldName: materialInputs
-    outputFieldName: output
-    inputPortIdentifier: _Source_2D
-    outputPortIdentifier: output
   - GUID: d346cb7d-1aca-49ce-b824-01a7334d9cca
     owner: {fileID: 11400000}
     inputNodeGUID: d99fb0b0-371f-453f-b72f-8f67a3af7766
