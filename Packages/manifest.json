@@ -1,12 +1,20 @@
 {
   "dependencies": {
-    "com.alelievr.mixture": "0.4.2",
-    "com.unity.render-pipelines.high-definition": "17.0.2",
+    "com.alelievr.mixture": "https://github.com/alelievr/Mixture.git?path=/Packages/com.alelievr.mixture",
+    "com.unity.render-pipelines.universal": "17.0.3",
+    "com.unity.modules.imageconversion": "1.0.0",
     "com.unity.modules.particlesystem": "1.0.0"
   },
   "scopedRegistries": [
     {
-      "name": "Alelievr",
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    },
+    {
+      "name": "Open UPM",
       "url": "https://package.openupm.com",
       "scopes": [
         "com.alelievr"
