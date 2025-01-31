@@ -2,6 +2,8 @@
   "dependencies": {
     "com.alelievr.mixture": "https://github.com/alelievr/Mixture.git?path=/Packages/com.alelievr.mixture",
     "com.unity.render-pipelines.universal": "17.0.3",
+    "jp.keijiro.klutter-tools": "2.0.0",
+    "jp.keijiro.vfxgraphassets": "3.8.0",
     "com.unity.modules.imageconversion": "1.0.0",
     "com.unity.modules.particlesystem": "1.0.0"
   },
